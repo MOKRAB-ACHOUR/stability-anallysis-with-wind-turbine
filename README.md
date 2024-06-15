@@ -1,11 +1,12 @@
 # 
 stability analysis of electrical networks with asynchronous generation
-<h1
+<h2
 stability analysis of electrical networks with asynchronous generation , Python , Digsilent, Power factory
-/h1>
-Keywords: Stability, modeling, Distributed power networks, interaction, distributed production,
-energy quality, stability of equilibria.
-Problem  and  work  plan: Wind turbines occupy an important part of decentralized production and
+/h2>
+Keywords: Stability, modeling, Distributed power networks, interaction, distributed production,energy quality, stability of equilibria.
+Problem  and  work  plan:
+<h1
+  Wind turbines occupy an important part of decentralized production and
 therefore  influence  the  stability  of  the  network  to  which  they  are  connected.  Indeed,  the  electric
 power produced by the wind turbine is fluctuating. It varies suddenly due to a rapid variation in wind
 speed.  This  can  be  considered  as  a  disturbance  on  the  power  injected  into  the  network  and  can
@@ -29,3 +30,4 @@ the  increase  in  the  penetration  rate  of  distributed  production  makes  i
 synchronism between the different parts of the electricity network. Consequently, this work aims to
 assess  the  potential  effects  of the  integration  of  wind  generators on the  transient  stability  of  power
 electrical systems with particular reference to the distribution system.
+/h1>
